@@ -62,9 +62,14 @@ Bu proje, **Flutter** ile geliştirilmiş, **ESP32** cihazı üzerinden LED kont
 
 ### Oda Hava Durumu Kartları
 
-![Oda Hava Durumu](screenshots/room_weather.png)
+![Açıklama](assets/Github/Circuit1.jpg)
+![Açıklama](assets/Github/Circuit2.jpg)
+
 
 ### LED Kontrol Ekranı
+
+![Açıklama](assets/Github/Circuit3.jpg)
+![Açıklama](assets/Github/Circuit4.jpg)
 
 ![LED Kontroller](screenshots/led_controls.png)
 
