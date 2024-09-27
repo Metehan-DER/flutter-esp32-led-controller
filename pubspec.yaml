@@ -1,0 +1,56 @@
+name: esp32
+description: "Metehan DER"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  http: ^1.2.1
+
+  flutter_svg: ^2.0.10+1
+  smooth_page_indicator: ^1.1.0
+
+  font_awesome_flutter: ^10.7.0
+  animated_text_kit: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/TempLogo.jpeg"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+
+  flutter_lints: ^3.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/celsius.png
+    - assets/drop.png
+    - assets/TempLogo.jpeg
+    - assets/images/1.png
+    - assets/images/2.jpg
+    - assets/images/3.jpg
+    - assets/images/4.jpg
+    - assets/images/5.jpg
+    - assets/images/6.jpg
+
+
