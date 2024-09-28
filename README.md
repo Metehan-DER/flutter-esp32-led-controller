@@ -61,9 +61,9 @@ Bu proje, **Flutter** ile geliştirilmiş, **ESP32** cihazı üzerinden LED kont
 
 
 ## Uygulama İçi Ekran Görüntüleri
-<img src="assets/Github/app1.jpg" width="225" height="500"> ....................................................................  <img src="assets/Github/app2.jpg" width="225" height="500">  
+  <img src="assets/Github/app1.jpg" width="225" height="500">                                                                              <img src="assets/Github/app2.jpg" width="225" height="500">  
 
-<img src="assets/Github/app3.jpg" width="225" height="500"> ....................................................................  <img src="assets/Github/app4.jpg" width="225" height="500">
+<img src="assets/Github/app3.jpg" width="225" height="500">                                                                                <img src="assets/Github/app4.jpg" width="225" height="500">
 
 
 
