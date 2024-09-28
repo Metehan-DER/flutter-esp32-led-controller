@@ -61,26 +61,21 @@ Bu proje, **Flutter** ile geliştirilmiş, **ESP32** cihazı üzerinden LED kont
 
 
 ## Uygulama İçi Ekran Görüntüleri
-  <img src="assets/Github/app1.jpg" width="225" height="500">                                                                              <img src="assets/Github/app2.jpg" width="225" height="500">  
+<img src="assets/Github/app1.jpg" width="225" height="500">                                                <img src="assets/Github/app2.jpg" width="225" height="500">  
 
-<img src="assets/Github/app3.jpg" width="225" height="500">                                                                                <img src="assets/Github/app4.jpg" width="225" height="500">
-
-
-
-### Oda Hava Durumu Kartları
-
-![Açıklama](assets/Github/Circuit1.jpg) 
-
-![Açıklama](assets/Github/Circuit2.jpg) 
+<img src="assets/Github/app3.jpg" width="225" height="500">                                                <img src="assets/Github/app4.jpg" width="225" height="500">
 
 
 
-### LED Kontrol Ekranı
+### Devre Şeması & Led Kontrolü
 
-![Açıklama](assets/Github/Circuit3.jpg)
+![](assets/Github/Circuit1.jpg) 
 
-![Açıklama](assets/Github/Circuit4.jpg)
+![](assets/Github/Circuit2.jpg) 
 
-![LED Kontroller](screenshots/led_controls.png)
+![](assets/Github/Circuit3.jpg)
+
+![](assets/Github/Circuit4.jpg)
+
 
 ---
