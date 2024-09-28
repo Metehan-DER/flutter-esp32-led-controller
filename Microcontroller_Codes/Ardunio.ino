@@ -2,7 +2,6 @@
 #include <Wire.h>
 #include <ArtronShop_SHT3x.h>
 
-// SHT3x sensör nesnesini oluştur
 ArtronShop_SHT3x sht3x(0x44, &Wire);  // ADDR: 0 => 0x44, ADDR: 1 => 0x45
 
 void setup() {
