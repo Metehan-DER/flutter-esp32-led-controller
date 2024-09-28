@@ -58,14 +58,18 @@ Bu proje, **Flutter** ile geliştirilmiş, **ESP32** cihazı üzerinden LED kont
    flutter run
    ```
 
-## Ekran Görüntüleri
+## Uygulama İçi Ekran Görüntüleri
+![Açıklama](assets/Github/app1.jpg)
+![Açıklama](assets/Github/app2.jpg)
+![Açıklama](assets/Github/app3.jpg)
+![Açıklama](assets/Github/app4.jpg)
+
 
 ### Oda Hava Durumu Kartları
 
-![Açıklama](assets/Github/Circuit1.jpg) ![Açıklama](assets/Github/App1.jpg)
+![Açıklama](assets/Github/Circuit1.jpg) 
 
-
-![Açıklama](assets/Github/Circuit2.jpg) ![Açıklama](assets/Github/App1.jpg)
+![Açıklama](assets/Github/Circuit2.jpg) 
 
 
 
