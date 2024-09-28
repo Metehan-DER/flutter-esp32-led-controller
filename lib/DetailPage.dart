@@ -116,27 +116,13 @@ class _WeatherCardState extends State<WeatherCard> {
                 widget.city,
                 style: TextStyle(fontSize: 24.0, fontWeight: FontWeight.bold),
               ),
-              AnimatedTextKit(
-                animatedTexts: [
-                  WavyAnimatedText(
-                    'Temperature: $_temperature °C',
-                    textStyle:
-                        TextStyle(fontSize: 28.0, fontWeight: FontWeight.bold),
-                  ),
-                ],
-                repeatForever: false,
-                isRepeatingAnimation: false,
+              Text(
+                'Temperature: $_temperature °C',
+                style: TextStyle(fontSize: 28.0, fontWeight: FontWeight.bold),
               ),
-              AnimatedTextKit(
-                animatedTexts: [
-                  WavyAnimatedText(
-                    'Humidity: $_humidity %RH',
-                    textStyle:
-                        TextStyle(fontSize: 28.0, fontWeight: FontWeight.bold),
-                  ),
-                ],
-                repeatForever: false,
-                isRepeatingAnimation: false,
+              Text(
+                'Humidity: $_humidity %RH',
+                style: TextStyle(fontSize: 28.0, fontWeight: FontWeight.bold),
               ),
               Text(
                 "Features",
