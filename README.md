@@ -58,11 +58,10 @@ Bu proje, **Flutter** ile geliştirilmiş, **ESP32** cihazı üzerinden LED kont
    flutter run
    ```
 
-<img src="assets/Github/app1.jpg" width="250" height="500">
 
 
 ## Uygulama İçi Ekran Görüntüleri
-![Açıklama](assets/Github/app1.jpg)
+<img src="assets/Github/app1.jpg" width="225" height="500">
 ![Açıklama](assets/Github/app2.jpg)
 ![Açıklama](assets/Github/app3.jpg)
 ![Açıklama](assets/Github/app4.jpg)
