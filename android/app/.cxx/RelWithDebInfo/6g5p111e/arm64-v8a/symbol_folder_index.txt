@@ -1,0 +1,1 @@
+C:\Users\celiker_two\StudioProjects\flutter-esp32-led-controller-master\build\app\intermediates\cxx\RelWithDebInfo\6g5p111e\obj\arm64-v8a
